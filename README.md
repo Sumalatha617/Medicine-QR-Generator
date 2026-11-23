@@ -1,6 +1,6 @@
 # Medicine QR Generator 🏥
 
-#Project Description
+Project Description
 Medicine QR Generator is a web-based application that generates and scans QR codes for medicines. 
 It extracts medicine information using CSV and displays usage details.
 
